@@ -26,3 +26,5 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
+
+link to walkthrough video https://watch.screencastify.com/v/MSzjTi1MKvmRH6Gxyx2i
