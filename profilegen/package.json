@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "profilegen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K2S00/profilegen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K2S00/profilegen/issues"
+  },
+  "homepage": "https://github.com/K2S00/profilegen#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+  
+}
