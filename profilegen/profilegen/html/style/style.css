@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #393e46;
+    height: 125px;
+    width: 100%;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 50px;
+    padding: 25px;
+    margin-bottom: 25px;
+    font-family: 'Hind Siliguri',Arial, Helvetica, sans-serif ;
+}
+
+.card-header {
+    background-color:  #5c636e;
+    color: #f96d00;
+    font-size: 20px;
+    font-family: 'Oxygen', serif, Arial, Helvetica, sans-serif;
+}
+
+.row{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+    max-width: 350px;
+}
